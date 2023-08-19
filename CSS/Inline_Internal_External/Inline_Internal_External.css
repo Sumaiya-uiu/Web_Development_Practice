@@ -1,0 +1,5 @@
+p{
+    /* background-color: rgb(29, 100, 231) !important; This will not be given more priority*/
+    background-color: rgb(29, 100, 231);
+    color: rgb(228, 241, 45);
+}
