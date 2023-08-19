@@ -6,5 +6,11 @@ Example:
 
  2)   <link rel="stylesheet" href="Inline_Internal_External.css"> 
         <style></style>--->This will be given more priority
-    
+
+====> p{
+    color :blue:
+}
+    here, p is a selector; 
+          color is a property
+          blue is a value
 
