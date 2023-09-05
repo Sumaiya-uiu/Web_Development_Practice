@@ -1,8 +1,0 @@
---> <br> is a self closing tag
---> <hr> is a self closing tag
---> lorem10 gives words
---> Use <em> instead of <i></i>
-    and <strong> instead of <b></b>
---> p*34 will give 34 paragraph tags
---> ctrl + enter to jump into new line
---> template code is also known as Boiler code
