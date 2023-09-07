@@ -1,5 +1,12 @@
-p{
-    /* background-color: rgb(29, 100, 231) !important; This will not be given more priority*/
+/*!important --- This will not be given more priority*/
+/*p{
+    background-color: rgb(29, 100, 231) !important; 
     background-color: rgb(29, 100, 231);
     color: rgb(228, 241, 45);
+}*/
+
+p{
+    color: rgb(110, 14, 14);
+    background-color: rgb(102, 226, 91);
+
 }
